@@ -16,7 +16,7 @@ Repositorio
 
 1. git clone https://github.com/JaimeTR/wifihack.git
 2. cd wifihack
-3. bash wifihack
+3. chmod +x wifihack.py
 
 **disfrutalo** 
 ```
