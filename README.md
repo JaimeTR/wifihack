@@ -5,7 +5,7 @@ Este repositorio esta en prueba, actualmente en desarrollo
 ### Redes Sociales
 
 Sigueme en FB [Webstr Security](https://www.facebook.com/HackerWebstr/)
-Sigueme en Instagram [Webstr.sh](https://www.facebook.com/HackerWebstr/)
+y en Instagram como [Webstr.sh](https://www.facebook.com/HackerWebstr/)
 
 
 
