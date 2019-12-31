@@ -21,7 +21,7 @@ Repositorio
 **disfrutalo** 
 ```
 
-AYUDAME A SEGUIR DESARROLANDO MAS PROYECTOS [Donar](https://www.paypal.me/jaimetarazona).
+AYUDAME A SEGUIR TRABAJANDO [Donar](https://www.paypal.me/jaimetarazona).
 
 ### PAYPAL
 
